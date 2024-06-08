@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently i am a B.tech(Artificial intelligence and Machine learning) student in Techno International Newtown <br>Learning different ML algorithms and experimenting with computer vision projects
+A B.tech(Artificial intelligence and Machine learning) student in Techno International Newtown <br>Learning different ML algorithms and experimenting with computer vision projects
 
 
 ## 🌐 Socials:
